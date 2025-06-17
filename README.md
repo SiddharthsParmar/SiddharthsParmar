@@ -1,6 +1,7 @@
-<h2 align="left">Hi 👋! My name is Siddharth and I'm a React Developer</h2>
+![image](https://github.com/user-attachments/assets/db114bbc-b8f3-4830-81e1-9856098764ee)<h2 align="left">Hi 👋! My name is Siddharth and I'm a React Developer</h2>
 
 ###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -9,7 +10,12 @@
 
 ###
 
-<img align="right" height="150" src="https://octodex.github.com/images/NUX_Octodex.gif"  />
+
+<div align="left" height = "500">
+
+</div>
+![NUX_Octodex (1)](https://github.com/user-attachments/assets/c077d5f1-6aa6-44f0-b357-8cb300d753cf)
+
 
 ###
 
@@ -34,11 +40,14 @@
 <div align="left">
   <a href="https://youtube.com/@siddharthsparmar?feature=shared">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"   /></a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://www.instagram.com/siddharth.jsx?utm_source=qr&igsh=MXAydng0aHh5amNkMA==">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
 <!--   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /> -->
 <!--   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /> -->
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="siddharth.official.swe@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="https://www.linkedin.com/in/siddharth-parmar-1245b4240?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
 ###
