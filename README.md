@@ -1,20 +1,16 @@
-![image](https://github.com/user-attachments/assets/db114bbc-b8f3-4830-81e1-9856098764ee)<h2 align="left">Hi 👋! My name is Siddharth and I'm a React Developer</h2>
+<h2 align="left">Hi 👋! My name is Siddharth and I'm a React Developer</h2>
 
 ###
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+</div>-->
 
 ###
 
 
-<div align="left" height = "500">
-
-</div>
-![NUX_Octodex (1)](https://github.com/user-attachments/assets/c077d5f1-6aa6-44f0-b357-8cb300d753cf)
 
 
 ###
@@ -26,13 +22,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" height="37" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+
+  <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" height="30" alt="csharp logo"  />
+    <img width="25" height="25" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg"/>
+    <img width="12" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg"/>
+    <img width="12" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg"/>
+    <img width="12" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg"/>
 </div>
 
 ###
