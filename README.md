@@ -30,9 +30,7 @@
 
   <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" height="30" alt="csharp logo"  />
     <img width="25" height="25" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg"/>
-    <img width="12" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg"/>
-    <img width="12" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg"/>
-    <img width="12" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg"/>
+   
 </div>
 
 ###
