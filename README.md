@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 
   <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" height="30" alt="csharp logo"  />
-    <img width="25" height="25" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg"/>
+    <img width="35" height="35" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg"/>
    
 </div>
 
